@@ -1,11 +1,5 @@
 # Skin Lesions Classification with Deep Convolutional Neural Network
 
-### **Dataset**
-
----
-
----
-
 ## Files Tables
 
 | Sr.No | File Name                                                    | Link                                                         |
